@@ -7,13 +7,13 @@ html, body {
     margin: 30px auto;
     padding: 15px;
     border: 0px solid;
-    background: #ababab
+    background: #ababab;
   }
   
   img{
     max-width: 100%; 
     display: block; 
-    height: auto;
+    height: 50%;
     margin: auto;
   }
   
@@ -21,8 +21,8 @@ html, body {
     margin:-5px;
     margin-top:20px;
     width:100%;
-    border:5px solid white;
-    background:white;
+    border:5px #ababab;
+    background: #ababab;
   }
   
   img-caption {
